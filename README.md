@@ -27,5 +27,5 @@ This Tableau project provides an in-depth analysis of COVID-19 data worldwide fr
 4. Explore the visualizations interactively to gain insights into COVID-19 data trends and patterns.
 
 ## Credits
-- Data Source: https://github.com/HarshChaudhary1312/Tableau-COVID-19_World_Data_Analysis/blob/main/COVID-19.zip
+- Data Source: COVID-19.zip
 - Visualization Tools: Tableau Desktop.
